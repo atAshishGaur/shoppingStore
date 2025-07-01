@@ -1,8 +1,19 @@
 import { FaSearch, FaHeart, FaShoppingCart, FaUser } from "react-icons/fa";
 import React, { useState } from "react";
+import axios from 'axios';
 
 const Header=()=>{
           const [menuOpen, setMenuOpen] = useState(false);
+
+            const handleFetch = async () => {
+    try {
+      const response = await axios.get('https://ecomm.dotvik.com/v2kart/service/categories/main');
+      console.log('API Response:', response.data);
+      // You can now use response.data to render categories
+    } catch (error) {
+      console.error('Error fetching categories:', error);
+    }
+  };
     return (
                <div>
            <div className="w-full flex items-center justify-between px-6 sm:px-8 py-4">
@@ -16,7 +27,14 @@ const Header=()=>{
      
              <div className="hidden lg:flex justify-between w-full px-6 text-[#37173D] font-medium text-sm sm:text-base">
                <div className="flex gap-12 font-semibold">
-                 <div className="cursor-pointer hover:text-[#B549FF]">MEN</div>
+                <div className="">
+      <button
+        onClick={handleFetch}
+        className="cursor-pointer hover:text-[#B549FF]"
+      >
+       Men
+      </button>
+    </div>
                  <div className="cursor-pointer hover:text-[#B549FF]">WOMEN</div>
                  <div className="cursor-pointer hover:text-[#B549FF]">KIDS & INFANTS</div>
                    <div className="cursor-pointer hover:text-[#B549FF]">BEST SELLER</div>
