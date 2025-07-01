@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/atAshishGaur/shoppingStore/static/css/main.c1f049b1.css",
-    "main.js": "/atAshishGaur/shoppingStore/static/js/main.9827da58.js",
-    "static/js/453.66ac5bd8.chunk.js": "/atAshishGaur/shoppingStore/static/js/453.66ac5bd8.chunk.js",
-    "static/media/image8.png": "/atAshishGaur/shoppingStore/static/media/image8.686a6092add00d45d027.png",
-    "static/media/image7.jpg": "/atAshishGaur/shoppingStore/static/media/image7.d01dac1a73e79ac238f6.jpg",
-    "static/media/image9.png": "/atAshishGaur/shoppingStore/static/media/image9.22138009d761a0478217.png",
-    "static/media/image17.webp": "/atAshishGaur/shoppingStore/static/media/image17.75b57ff6ed564a3111bb.webp",
-    "static/media/image19.webp": "/atAshishGaur/shoppingStore/static/media/image19.6662836310249ea1e3bf.webp",
-    "static/media/image18.webp": "/atAshishGaur/shoppingStore/static/media/image18.de3ba46c9e7747927eff.webp",
-    "static/media/image13.jpg": "/atAshishGaur/shoppingStore/static/media/image13.35481df1d7eccd25a6a1.jpg",
-    "static/media/image12.jpg": "/atAshishGaur/shoppingStore/static/media/image12.4c5695a39d1080f07e0c.jpg",
-    "static/media/image15.webp": "/atAshishGaur/shoppingStore/static/media/image15.f65a0e2f94992f6b7d6a.webp",
-    "static/media/image16.webp": "/atAshishGaur/shoppingStore/static/media/image16.799af4a50eac20027eec.webp",
-    "index.html": "/atAshishGaur/shoppingStore/index.html",
-    "main.c1f049b1.css.map": "/atAshishGaur/shoppingStore/static/css/main.c1f049b1.css.map",
-    "main.9827da58.js.map": "/atAshishGaur/shoppingStore/static/js/main.9827da58.js.map",
-    "453.66ac5bd8.chunk.js.map": "/atAshishGaur/shoppingStore/static/js/453.66ac5bd8.chunk.js.map"
+    "main.css": "/shoppingStore/static/css/main.c1f049b1.css",
+    "main.js": "/shoppingStore/static/js/main.38729b91.js",
+    "static/js/453.66ac5bd8.chunk.js": "/shoppingStore/static/js/453.66ac5bd8.chunk.js",
+    "static/media/image8.png": "/shoppingStore/static/media/image8.686a6092add00d45d027.png",
+    "static/media/image7.jpg": "/shoppingStore/static/media/image7.d01dac1a73e79ac238f6.jpg",
+    "static/media/image9.png": "/shoppingStore/static/media/image9.22138009d761a0478217.png",
+    "static/media/image17.webp": "/shoppingStore/static/media/image17.75b57ff6ed564a3111bb.webp",
+    "static/media/image19.webp": "/shoppingStore/static/media/image19.6662836310249ea1e3bf.webp",
+    "static/media/image18.webp": "/shoppingStore/static/media/image18.de3ba46c9e7747927eff.webp",
+    "static/media/image13.jpg": "/shoppingStore/static/media/image13.35481df1d7eccd25a6a1.jpg",
+    "static/media/image12.jpg": "/shoppingStore/static/media/image12.4c5695a39d1080f07e0c.jpg",
+    "static/media/image15.webp": "/shoppingStore/static/media/image15.f65a0e2f94992f6b7d6a.webp",
+    "static/media/image16.webp": "/shoppingStore/static/media/image16.799af4a50eac20027eec.webp",
+    "index.html": "/shoppingStore/index.html",
+    "main.c1f049b1.css.map": "/shoppingStore/static/css/main.c1f049b1.css.map",
+    "main.38729b91.js.map": "/shoppingStore/static/js/main.38729b91.js.map",
+    "453.66ac5bd8.chunk.js.map": "/shoppingStore/static/js/453.66ac5bd8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1f049b1.css",
-    "static/js/main.9827da58.js"
+    "static/js/main.38729b91.js"
   ]
 }
